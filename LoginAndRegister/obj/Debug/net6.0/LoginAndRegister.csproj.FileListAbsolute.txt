@@ -65,3 +65,13 @@ C:\HCM\LoginAndRegister\LoginAndRegister\obj\Debug\net6.0\refint\LoginAndRegiste
 C:\HCM\LoginAndRegister\LoginAndRegister\obj\Debug\net6.0\LoginAndRegister.pdb
 C:\HCM\LoginAndRegister\LoginAndRegister\obj\Debug\net6.0\LoginAndRegister.genruntimeconfig.cache
 C:\HCM\LoginAndRegister\LoginAndRegister\obj\Debug\net6.0\ref\LoginAndRegister.dll
+C:\HCM\LoginAndRegister\LoginAndRegister\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\HCM\LoginAndRegister\LoginAndRegister\bin\Debug\net6.0\Serilog.dll
+C:\HCM\LoginAndRegister\LoginAndRegister\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\HCM\LoginAndRegister\LoginAndRegister\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\HCM\LoginAndRegister\LoginAndRegister\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\HCM\LoginAndRegister\LoginAndRegister\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\HCM\LoginAndRegister\LoginAndRegister\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\HCM\LoginAndRegister\LoginAndRegister\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\HCM\LoginAndRegister\LoginAndRegister\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\HCM\LoginAndRegister\LoginAndRegister\bin\Debug\net6.0\Serilog.Sinks.File.dll
